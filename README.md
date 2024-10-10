@@ -111,6 +111,14 @@
 
 <br>
 
+## 🏗️ Architecture
+
+![Untitled](./exec/assets/architecture.png)
+
+<br>
+
+<br>
+
 ## 🗳️ API 명세서
 
 [API 명세서 보러가기 (∩^o^)⊃━☆](https://low-lycra-241.notion.site/REST-API-5b893dd01a8d4c888251539d728c4c67?pvs=4)
